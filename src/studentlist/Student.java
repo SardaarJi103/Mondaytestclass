@@ -8,7 +8,10 @@ package studentlist;
 /**
  *
  * @author srinivsi
- */
+
+
+this is branch repository
+*/
 public class Student
 {
     private String name;
