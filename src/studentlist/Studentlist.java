@@ -8,6 +8,7 @@ package studentlist;
 /**
  * printing student details
  * @author srinivsi
+ hwkkkiw nmdnsmn sd sd sd  d sd s sd sdnsdsjd jsdjsdjksdjsk jk js kdjskdjskd
  */
 public class Studentlist
 {
@@ -28,6 +29,7 @@ public class Studentlist
         list[0]= s1;
         list[1]= s2;
         list[2]=s3;
+         
          for (int i=0;i<list.length;i++)
          {
             // System.out.println(list[i]);
