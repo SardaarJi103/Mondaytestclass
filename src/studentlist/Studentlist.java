@@ -8,7 +8,7 @@ package studentlist;
 /**
  * printing student details
  * @author srinivsi
- hwkkkiw nmdnsmn sd sd sd  d sd s sd sdnsdsjd jsdjsdjksdjsk jk js kdjskdjskd
+ hwkkkiw nmdnsmn sd sd sd  d sd s sd sdnsdsjd jsdjsdjksdjsk jk js kdjskdjskd thisjb s karabebebbe
  */
 public class Studentlist
 {
