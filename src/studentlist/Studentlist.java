@@ -9,7 +9,11 @@ package studentlist;
  * printing student details
  * @author srinivsi
  hwkkkiw nmdnsmn sd sd sd  d sd s sd sdnsdsjd jsdjsdjksdjsk jk js kdjskdjskd thisjb s karabebebbe
- */
+
+sdnsdsndmsd ds ds ds dsm d ds ds d d snmd nms dm sd
+
+*/
+
 public class Studentlist
 {
 
